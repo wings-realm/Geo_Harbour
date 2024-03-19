@@ -1,0 +1,50 @@
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leaflet Map with Layer Control</title>
+    <!-- Leaflet CSS from node_modules -->
+    <link rel="stylesheet" href="node_modules/leaflet/dist/leaflet.css" />
+    
+    <style>
+      body, html {
+        height: 100%;
+        margin: 0;
+      }
+  
+      #map {
+        height: 100%;
+        width: 100%;
+      }
+  
+      #checkbox-container {
+        padding: 10px;
+      }
+    </style>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <div id="map"></div>
+    <script src="node_modules/leaflet/dist/leaflet.js"></script>
+    <script src="node_modules/jszip/dist/jszip.min.js"></script>
+    <script src="node_modules/leaflet-omnivore/leaflet-omnivore.min.js"></script>
+    <script src="node_modules/@turf/turf/index.js"></script>
+    <script src="node_modules/shpjs/dist/shp.js"></script>
+    <script src="node_modules/togeojson/togeojson.js"></script>
+    <script src="https://api.mapbox.com/mapbox.js/plugins/leaflet-image/v0.0.4/leaflet-image.js"></script>
+    <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
+
+
+
+    <script src="main.js"></script>
+  
+    <div id="checkbox-container">
+      
+      <input type="file" id="addLayerInput" accept=".zip, .kml, .kmz, .geojson">
+      <button id="addLayerButton">Add Layer</button>
+      <button id="capture">Capture Screenshot</button>
+    </div>
+  </body>
+  </html>
+  

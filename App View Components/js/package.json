@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@turf/turf": "^6.5.0",
+    "leaflet": "^1.9.4",
+    "leaflet-omnivore": "^0.3.4",
+    "shpjs": "^4.0.4",
+    "turf": "^3.0.14"
+  }
+}

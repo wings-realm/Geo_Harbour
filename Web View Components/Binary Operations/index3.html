@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Leaflet GeoJSON Union</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/turf"></script>
+  <script src="node_modules/@turf/turf/index.js"></script>
+  <script src="node_modules/turf-buffer/index.js"></script>
+  <script src="node_modules/turf-centroid/index.js"></script>
+  <script src="node_modules/@turf/turf/turf.min.js"></script>
+  <script src="node_modules/leaflet/dist/leaflet.js"></script>
+  <script src="node_modules/jszip/dist/jszip.min.js"></script>
+  <script src="node_modules/leaflet-omnivore/leaflet-omnivore.min.js"></script>
+  <script src="node_modules/@turf/turf/index.js"></script>
+  <script src="node_modules/shpjs/dist/shp.js"></script>
+  <script src="node_modules/togeojson/togeojson.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/jsts@1.6.2/dist/jsts.js"></script>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+  
+  <div id="map"></div>
+  <div id="checkbox-container">
+  <input type="file" id="fileInput1" accept=".json, .geojson" style="width:12rem;" />
+  <input type="file" id="fileInput2" accept=".json, .geojson" style="width:12rem;" />
+  <button onclick="performUnion()">Perform Union</button>
+  <button onclick="performIntersect()">Perform Intersection</button>
+  <button onclick="perform1()">First GeoJSON file</button>
+  <button onclick="perform2()">Second GeoJSON file</button>
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/turf"></script>
+  <script src="main2.js"></script>
+</div>
+  </body>
+  </html>
+  

@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Thematic Layer in Leaflet</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <style>
+    body, html {
+      height: 100%;
+      width: 100%;
+      margin: 0;
+    }
+
+    #map {
+      height: 100%;
+      width: 100%;
+    }
+
+
+  </style>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+
+  
+
+
+
+<!-- Dropdown menu for states -->
+
+<div class="control-container">
+<select id="stateDropdown">
+  <option value="">Select a state</option>
+  <option value="Uttar Pradesh">Uttar Pradesh</option>
+  <option value="Andhra Pradesh">Andhra Pradesh</option>
+  <option value="West Bengal">West Bengal</option>
+  <option value="Assam">Assam</option>
+  <option value="Madhya Pradesh">Madhya Pradesh</option>
+  <option value="Karnataka">Karnataka</option>
+  <option value="Maharashtra">Maharashtra</option>
+  <option value="Arunachal Pradesh">Arunachal Pradesh</option>
+  <option value="Bihar">Bihar</option>
+  <option value="Chhattisgarh">Chhattisgarh</option>
+  <option value="Goa">Goa</option>
+  <option value="Gujarat">Gujarat</option>
+  <option value="Haryana">Haryana</option>
+  <option value="Himachal Pradesh">Himachal Pradesh</option>
+  <option value="Jammu & Kashmir">Jammu & Kashmir</option>
+  <option value="Jharkhand">Jharkhand</option>
+  <option value="Kerala">Kerala</option>
+  <option value="Manipur">Manipur</option>
+  <option value="Meghalaya">Meghalaya</option>
+  <option value="Mizoram">Mizoram</option>
+  <option value="Nagaland">Nagaland</option>
+  <option value="Odisha">Odisha</option>
+  <option value="Punjab">Punjab</option>
+  <option value="Rajasthan">Rajasthan</option>
+  <option value="Sikkim">Sikkim</option>
+  <option value="Tamil Nadu">Tamil Nadu</option>
+  <option value="Uttarakhand">Uttarakhand</option>
+  <option value="Telangana">Telangana</option>
+</select>
+<select id="yearDropdown">
+  <option value="1516">2015-16</option>
+  <option value="1112">2011-12</option>
+</select>
+<button onclick="updateThematicLayer()">Submit</button>
+
+</div>
+
+<div id="map" ></div>
+
+<script>
+  const stateAbbreviationsMap = new Map([
+    ['Uttar Pradesh', 'UP'],
+    ['Andhra Pradesh', 'AP'],
+    ['West Bengal', 'WB'],
+    ['Assam', 'AS'],
+    ['Madhya Pradesh', 'MP'],
+    ['Karnataka', 'KA'],
+    ['Maharashtra', 'MH'],
+    ['Union Territory', 'AN'],
+    ['Arunachal Pradesh', 'AR'],
+    ['Bihar', 'BR'],
+    ['Chhattisgarh', 'CH'],
+    ['Goa', 'GA'],
+    ['Gujarat', 'GJ'],
+    ['Haryana', 'HR'],
+    ['Himachal Pradesh', 'HP'],
+    ['Jammu & Kashmir', 'JK'],
+    ['Jharkhand', 'JH'],
+    ['Kerala', 'KL'],
+    ['Manipur', 'MN'],
+    ['Meghalaya', 'ML'],
+    ['Mizoram', 'MZ'],
+    ['Nagaland', 'NL'],
+    ['Odisha', 'OR'],
+    ['Punjab', 'PB'],
+    ['Rajasthan', 'RJ'],
+    ['Sikkim', 'SK'],
+    ['Tamil Nadu', 'TN'],
+    ['Uttarakhand', 'UK'],
+    ['Telangana', 'TL'],
+    ['India', 'IN']
+  ]);
+
+  const map = L.map('map').setView([20.5937, 78.9629], 5); // Centered on India
+
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '© OpenStreetMap contributors'
+  }).addTo(map);
+
+  let thematicLayer;
+
+  // Function to update the thematic layer based on selected state
+  function updateThematicLayer() {
+    const dropdownElement = document.getElementById('stateDropdown');
+    const yearDropdownElement = document.getElementById('yearDropdown');
+    const selectedYear = yearDropdownElement.value.trim();
+    const selectedStateName = dropdownElement.value.trim();
+    
+    // Clear the map if thematic layer is already shown
+    if (thematicLayer) {
+      map.removeLayer(thematicLayer);
+    }
+
+    // Find the state abbreviation from the map
+    const stateAbbreviation = stateAbbreviationsMap.get(selectedStateName);
+
+    if (stateAbbreviation) {
+      // Update the thematic layer based on the selected state and year
+      thematicLayer = L.tileLayer.wms('https://bhuvan-vec2.nrsc.gov.in/bhuvan/wms', {
+        layers: `lulc:${stateAbbreviation}_LULC50K_${selectedYear}`, // Adjust the layer name accordingly
+        version: '1.1.1',
+        matrixSet: 'EPSG:4326',
+        format: 'image/png',
+        transparent: true,
+        attribution: `LULC 50k ${selectedYear} - ${stateAbbreviation}`,
+      }).addTo(map);
+    } else {
+      alert('State abbreviation not found. Please select a valid state.');
+    }
+  }
+</script> 
+
+</body>
+</html>
+

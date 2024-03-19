@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GeoJSON Plotter</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/turf"></script>
+  <script src="node_modules/@turf/turf/index.js"></script>
+  <script src="node_modules/turf-buffer/index.js"></script>
+  <script src="node_modules/turf-centroid/index.js"></script>
+  <script src="node_modules/@turf/turf/turf.min.js"></script>
+  
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+
+  <div id="checkbox-container">
+    <input type="file" id="filePicker" accept=".geojson">
+    <input type="text" id="keyword" placeholder="Filter by Word">
+    <input type="number" id="radius" placeholder="Enter Radius">
+    <button onclick="plotGeoJSON()">Plot GeoJSON</button>
+
+  </div>
+
+  <div id="map" ></div>
+
+
+  <script src="main4.js"></script>
+
+  
+
+</body>
+</html>

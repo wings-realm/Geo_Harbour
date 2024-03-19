@@ -1,0 +1,2882 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="resto_poi" id="resto_poi">
+	<SimpleField name="Categories" type="string"></SimpleField>
+	<SimpleField name="FID" type="int"></SimpleField>
+	<SimpleField name="Field_1" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="Name2" type="string"></SimpleField>
+</Schema>
+<Folder><name>resto_poi</name>
+  <Placemark>
+	<name>Nirulas</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">0</SimpleData>
+		<SimpleData name="Field_1">Nirulas</SimpleData>
+		<SimpleData name="Latitude">28.394964</SimpleData>
+		<SimpleData name="Longitude">77.325627</SimpleData>
+		<SimpleData name="Name2">Nirulas</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.325627,28.3949639992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mughal Mahal</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">1</SimpleData>
+		<SimpleData name="Field_1">Mughal Mahal</SimpleData>
+		<SimpleData name="Latitude">28.392756</SimpleData>
+		<SimpleData name="Longitude">77.301705</SimpleData>
+		<SimpleData name="Name2">Mughal Mahal</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.301705,28.3927559992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wimpys</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Fast Food</SimpleData>
+		<SimpleData name="FID">2</SimpleData>
+		<SimpleData name="Field_1">Wimpys</SimpleData>
+		<SimpleData name="Latitude">28.394934</SimpleData>
+		<SimpleData name="Longitude">77.322718</SimpleData>
+		<SimpleData name="Name2">Wimpys</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.322718,28.3949339992101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mayur Restaurant</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">3</SimpleData>
+		<SimpleData name="Field_1">Mayur Restaurant</SimpleData>
+		<SimpleData name="Latitude">28.376317</SimpleData>
+		<SimpleData name="Longitude">77.329272</SimpleData>
+		<SimpleData name="Name2">Mayur Restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.329272,28.3763169992105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rikky Bhatia Sweets And Paneer Bhandar</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">4</SimpleData>
+		<SimpleData name="Field_1">Rikky Bhatia Sweets And Paneer Bhandar</SimpleData>
+		<SimpleData name="Latitude">28.380425</SimpleData>
+		<SimpleData name="Longitude">77.297551</SimpleData>
+		<SimpleData name="Name2">Rikky Bhatia Sweets And Paneer Bhandar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.297551,28.3804249992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pawan Bakery</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">5</SimpleData>
+		<SimpleData name="Field_1">Pawan Bakery</SimpleData>
+		<SimpleData name="Latitude">28.384422</SimpleData>
+		<SimpleData name="Longitude">77.304268</SimpleData>
+		<SimpleData name="Name2">Pawan Bakery</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.304268,28.3844219992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rangoli Ice Cream Parlour</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">6</SimpleData>
+		<SimpleData name="Field_1">Rangoli Ice Cream Parlour</SimpleData>
+		<SimpleData name="Latitude">28.384067</SimpleData>
+		<SimpleData name="Longitude">77.304374</SimpleData>
+		<SimpleData name="Name2">Rangoli Ice Cream Parlour</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.304374,28.3840669992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dominos</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Fast Food</SimpleData>
+		<SimpleData name="FID">7</SimpleData>
+		<SimpleData name="Field_1">Dominos</SimpleData>
+		<SimpleData name="Latitude">28.380373</SimpleData>
+		<SimpleData name="Longitude">77.313523</SimpleData>
+		<SimpleData name="Name2">Dominos</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.313523,28.3803729992105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cocoa World</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Fast Food</SimpleData>
+		<SimpleData name="FID">8</SimpleData>
+		<SimpleData name="Field_1">Cocoa World</SimpleData>
+		<SimpleData name="Latitude">28.386793</SimpleData>
+		<SimpleData name="Longitude">77.317307</SimpleData>
+		<SimpleData name="Name2">Cocoa World</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.317307,28.3867929992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Welcome</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">9</SimpleData>
+		<SimpleData name="Field_1">Welcome</SimpleData>
+		<SimpleData name="Latitude">28.377707</SimpleData>
+		<SimpleData name="Longitude">77.329155</SimpleData>
+		<SimpleData name="Name2">Welcome</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.329155,28.3777069992105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mehak Restaurant</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">10</SimpleData>
+		<SimpleData name="Field_1">Mehak Restaurant</SimpleData>
+		<SimpleData name="Latitude">28.391673</SimpleData>
+		<SimpleData name="Longitude">77.310946</SimpleData>
+		<SimpleData name="Name2">Mehak Restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.310946,28.3916729992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Philco Bakery</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">11</SimpleData>
+		<SimpleData name="Field_1">Philco Bakery</SimpleData>
+		<SimpleData name="Latitude">28.39461</SimpleData>
+		<SimpleData name="Longitude">77.303157</SimpleData>
+		<SimpleData name="Name2">Philco Bakery</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.303157,28.3946099992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shivani Confectionery</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">12</SimpleData>
+		<SimpleData name="Field_1">Shivani Confectionery</SimpleData>
+		<SimpleData name="Latitude">28.380661</SimpleData>
+		<SimpleData name="Longitude">77.293224</SimpleData>
+		<SimpleData name="Name2">Shivani Confectionery</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.293224,28.3806609992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harsha Confectionery</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">13</SimpleData>
+		<SimpleData name="Field_1">Harsha Confectionery</SimpleData>
+		<SimpleData name="Latitude">28.380696</SimpleData>
+		<SimpleData name="Longitude">77.292517</SimpleData>
+		<SimpleData name="Name2">Harsha Confectionery</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.292517,28.3806959992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Khalsa Confectioners</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">14</SimpleData>
+		<SimpleData name="Field_1">Khalsa Confectioners</SimpleData>
+		<SimpleData name="Latitude">28.383636</SimpleData>
+		<SimpleData name="Longitude">77.30253</SimpleData>
+		<SimpleData name="Name2">Khalsa Confectioners</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.30253,28.3836359992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Triple Nine Restaurant</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">15</SimpleData>
+		<SimpleData name="Field_1">Triple Nine Restaurant</SimpleData>
+		<SimpleData name="Latitude">28.386109</SimpleData>
+		<SimpleData name="Longitude">77.306433</SimpleData>
+		<SimpleData name="Name2">Triple Nine Restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.306433,28.3861089992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ahuja Food Restaurant</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">16</SimpleData>
+		<SimpleData name="Field_1">Ahuja Food Restaurant</SimpleData>
+		<SimpleData name="Latitude">28.393041</SimpleData>
+		<SimpleData name="Longitude">77.301952</SimpleData>
+		<SimpleData name="Name2">Ahuja Food Restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.301952,28.3930409992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Raju Dhaba</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">17</SimpleData>
+		<SimpleData name="Field_1">Raju Dhaba</SimpleData>
+		<SimpleData name="Latitude">28.384558</SimpleData>
+		<SimpleData name="Longitude">77.304322</SimpleData>
+		<SimpleData name="Name2">Raju Dhaba</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.304322,28.3845579992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Saruar Dhaba</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">18</SimpleData>
+		<SimpleData name="Field_1">Saruar Dhaba</SimpleData>
+		<SimpleData name="Latitude">28.384026</SimpleData>
+		<SimpleData name="Longitude">77.304065</SimpleData>
+		<SimpleData name="Name2">Saruar Dhaba</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.304065,28.3840259992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rita Dhaba</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">19</SimpleData>
+		<SimpleData name="Field_1">Rita Dhaba</SimpleData>
+		<SimpleData name="Latitude">28.383978</SimpleData>
+		<SimpleData name="Longitude">77.30404</SimpleData>
+		<SimpleData name="Name2">Rita Dhaba</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.30404,28.3839779992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kerala Dosa House</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">20</SimpleData>
+		<SimpleData name="Field_1">Kerala Dosa House</SimpleData>
+		<SimpleData name="Latitude">28.369188</SimpleData>
+		<SimpleData name="Longitude">77.327481</SimpleData>
+		<SimpleData name="Name2">Kerala Dosa House</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.327481,28.3691879992106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ice Cream Plaza</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">21</SimpleData>
+		<SimpleData name="Field_1">Ice Cream Plaza</SimpleData>
+		<SimpleData name="Latitude">28.369191</SimpleData>
+		<SimpleData name="Longitude">77.327543</SimpleData>
+		<SimpleData name="Name2">Ice Cream Plaza</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.327543,28.3691909992106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Anjali Confectioners And Communication</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">22</SimpleData>
+		<SimpleData name="Field_1">Anjali Confectioners And Communication</SimpleData>
+		<SimpleData name="Latitude">28.392166</SimpleData>
+		<SimpleData name="Longitude">77.303813</SimpleData>
+		<SimpleData name="Name2">Anjali Confectioners And Communication</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.303813,28.3921659992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Khatri Confectioner</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">23</SimpleData>
+		<SimpleData name="Field_1">Khatri Confectioner</SimpleData>
+		<SimpleData name="Latitude">28.386799</SimpleData>
+		<SimpleData name="Longitude">77.300928</SimpleData>
+		<SimpleData name="Name2">Khatri Confectioner</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.300928,28.3867989992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bikaner Sweet Shop</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">24</SimpleData>
+		<SimpleData name="Field_1">Bikaner Sweet Shop</SimpleData>
+		<SimpleData name="Latitude">28.394298</SimpleData>
+		<SimpleData name="Longitude">77.315682</SimpleData>
+		<SimpleData name="Name2">Bikaner Sweet Shop</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.315682,28.3942979992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Big Boss</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">25</SimpleData>
+		<SimpleData name="Field_1">Big Boss</SimpleData>
+		<SimpleData name="Latitude">28.394554</SimpleData>
+		<SimpleData name="Longitude">77.32636</SimpleData>
+		<SimpleData name="Name2">Big Boss</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.32636,28.3945539992101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Virmani Restaurant And Caterers</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">26</SimpleData>
+		<SimpleData name="Field_1">Virmani Restaurant And Caterers</SimpleData>
+		<SimpleData name="Latitude">28.38118</SimpleData>
+		<SimpleData name="Longitude">77.290855</SimpleData>
+		<SimpleData name="Name2">Virmani Restaurant And Caterers</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.290855,28.3811799992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kuber Bakery</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">27</SimpleData>
+		<SimpleData name="Field_1">Kuber Bakery</SimpleData>
+		<SimpleData name="Latitude">28.369233</SimpleData>
+		<SimpleData name="Longitude">77.328315</SimpleData>
+		<SimpleData name="Name2">Kuber Bakery</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.328315,28.3692329992106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sumit Dhaba</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">28</SimpleData>
+		<SimpleData name="Field_1">Sumit Dhaba</SimpleData>
+		<SimpleData name="Latitude">28.381695</SimpleData>
+		<SimpleData name="Longitude">77.302327</SimpleData>
+		<SimpleData name="Name2">Sumit Dhaba</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.302327,28.3816949992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hot Meals Restaurant</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">29</SimpleData>
+		<SimpleData name="Field_1">Hot Meals Restaurant</SimpleData>
+		<SimpleData name="Latitude">28.389942</SimpleData>
+		<SimpleData name="Longitude">77.301482</SimpleData>
+		<SimpleData name="Name2">Hot Meals Restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.301482,28.3899419992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Madras Coffee House</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Coffee Shops</SimpleData>
+		<SimpleData name="FID">30</SimpleData>
+		<SimpleData name="Field_1">Madras Coffee House</SimpleData>
+		<SimpleData name="Latitude">28.391862</SimpleData>
+		<SimpleData name="Longitude">77.305556</SimpleData>
+		<SimpleData name="Name2">Madras Coffee House</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.305556,28.3918619992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Punjabi Chikcken Hut</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">31</SimpleData>
+		<SimpleData name="Field_1">Punjabi Chikcken Hut</SimpleData>
+		<SimpleData name="Latitude">28.386118</SimpleData>
+		<SimpleData name="Longitude">77.306359</SimpleData>
+		<SimpleData name="Name2">Punjabi Chikcken Hut</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.306359,28.3861179992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Standard</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">32</SimpleData>
+		<SimpleData name="Field_1">Standard</SimpleData>
+		<SimpleData name="Latitude">28.363497</SimpleData>
+		<SimpleData name="Longitude">77.326306</SimpleData>
+		<SimpleData name="Name2">Standard</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.326306,28.3634969992107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mini Sweets Corner</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">33</SimpleData>
+		<SimpleData name="Field_1">Mini Sweets Corner</SimpleData>
+		<SimpleData name="Latitude">28.364512</SimpleData>
+		<SimpleData name="Longitude">77.294659</SimpleData>
+		<SimpleData name="Name2">Mini Sweets Corner</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.294659,28.3645119992107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bikaner Misthan Bhandar</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">34</SimpleData>
+		<SimpleData name="Field_1">Bikaner Misthan Bhandar</SimpleData>
+		<SimpleData name="Latitude">28.385331</SimpleData>
+		<SimpleData name="Longitude">77.306881</SimpleData>
+		<SimpleData name="Name2">Bikaner Misthan Bhandar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.306881,28.3853309992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Raju Caterers</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">35</SimpleData>
+		<SimpleData name="Field_1">Raju Caterers</SimpleData>
+		<SimpleData name="Latitude">28.39495</SimpleData>
+		<SimpleData name="Longitude">77.322925</SimpleData>
+		<SimpleData name="Name2">Raju Caterers</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.322925,28.3949499992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Arora Chicken And Fish Corner</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">36</SimpleData>
+		<SimpleData name="Field_1">Arora Chicken And Fish Corner</SimpleData>
+		<SimpleData name="Latitude">28.382787</SimpleData>
+		<SimpleData name="Longitude">77.303428</SimpleData>
+		<SimpleData name="Name2">Arora Chicken And Fish Corner</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.303428,28.3827869992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Currys And Kebabs</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">37</SimpleData>
+		<SimpleData name="Field_1">Currys And Kebabs</SimpleData>
+		<SimpleData name="Latitude">28.381554</SimpleData>
+		<SimpleData name="Longitude">77.3021</SimpleData>
+		<SimpleData name="Name2">Currys And Kebabs</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.3021,28.3815539992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mittal Restaurant</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">38</SimpleData>
+		<SimpleData name="Field_1">Mittal Restaurant</SimpleData>
+		<SimpleData name="Latitude">28.394575</SimpleData>
+		<SimpleData name="Longitude">77.328459</SimpleData>
+		<SimpleData name="Name2">Mittal Restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.328459,28.3945749992101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Delight Restaurant</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">39</SimpleData>
+		<SimpleData name="Field_1">Delight Restaurant</SimpleData>
+		<SimpleData name="Latitude">28.365525</SimpleData>
+		<SimpleData name="Longitude">77.294602</SimpleData>
+		<SimpleData name="Name2">Delight Restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.294602,28.3655249992107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Khurja Sweet Shop</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">40</SimpleData>
+		<SimpleData name="Field_1">Khurja Sweet Shop</SimpleData>
+		<SimpleData name="Latitude">28.381142</SimpleData>
+		<SimpleData name="Longitude">77.30104</SimpleData>
+		<SimpleData name="Name2">Khurja Sweet Shop</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.30104,28.3811419992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shake Juice Corner</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">41</SimpleData>
+		<SimpleData name="Field_1">Shake Juice Corner</SimpleData>
+		<SimpleData name="Latitude">28.381322</SimpleData>
+		<SimpleData name="Longitude">77.301631</SimpleData>
+		<SimpleData name="Name2">Shake Juice Corner</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.301631,28.3813219992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Azad Juice Corner</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">42</SimpleData>
+		<SimpleData name="Field_1">Azad Juice Corner</SimpleData>
+		<SimpleData name="Latitude">28.38246</SimpleData>
+		<SimpleData name="Longitude">77.299206</SimpleData>
+		<SimpleData name="Name2">Azad Juice Corner</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.299206,28.3824599992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Amul Dairy</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">43</SimpleData>
+		<SimpleData name="Field_1">Amul Dairy</SimpleData>
+		<SimpleData name="Latitude">28.386561</SimpleData>
+		<SimpleData name="Longitude">77.305227</SimpleData>
+		<SimpleData name="Name2">Amul Dairy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.305227,28.3865609992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Baba Sweet Shop</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">44</SimpleData>
+		<SimpleData name="Field_1">Baba Sweet Shop</SimpleData>
+		<SimpleData name="Latitude">28.385869</SimpleData>
+		<SimpleData name="Longitude">77.302313</SimpleData>
+		<SimpleData name="Name2">Baba Sweet Shop</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.302313,28.3858689992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pawan Bakers</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">45</SimpleData>
+		<SimpleData name="Field_1">Pawan Bakers</SimpleData>
+		<SimpleData name="Latitude">28.384279</SimpleData>
+		<SimpleData name="Longitude">77.301146</SimpleData>
+		<SimpleData name="Name2">Pawan Bakers</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.301146,28.3842789992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chaman Sweet Corner</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">46</SimpleData>
+		<SimpleData name="Field_1">Chaman Sweet Corner</SimpleData>
+		<SimpleData name="Latitude">28.384319</SimpleData>
+		<SimpleData name="Longitude">77.301078</SimpleData>
+		<SimpleData name="Name2">Chaman Sweet Corner</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.301078,28.3843189992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>New Delhi Juice Corner</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">47</SimpleData>
+		<SimpleData name="Field_1">New Delhi Juice Corner</SimpleData>
+		<SimpleData name="Latitude">28.385972</SimpleData>
+		<SimpleData name="Longitude">77.306832</SimpleData>
+		<SimpleData name="Name2">New Delhi Juice Corner</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.306832,28.3859719992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Malik Pastry Shop</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">48</SimpleData>
+		<SimpleData name="Field_1">Malik Pastry Shop</SimpleData>
+		<SimpleData name="Latitude">28.364332</SimpleData>
+		<SimpleData name="Longitude">77.294217</SimpleData>
+		<SimpleData name="Name2">Malik Pastry Shop</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.294217,28.3643319992107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Free Home Delivery</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">49</SimpleData>
+		<SimpleData name="Field_1">Free Home Delivery</SimpleData>
+		<SimpleData name="Latitude">28.39468</SimpleData>
+		<SimpleData name="Longitude">77.329991</SimpleData>
+		<SimpleData name="Name2">Free Home Delivery</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.329991,28.3946799992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ajay Confectioners</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">50</SimpleData>
+		<SimpleData name="Field_1">Ajay Confectioners</SimpleData>
+		<SimpleData name="Latitude">28.388043</SimpleData>
+		<SimpleData name="Longitude">77.302383</SimpleData>
+		<SimpleData name="Name2">Ajay Confectioners</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.302383,28.3880429992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mittal Restaurant</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">51</SimpleData>
+		<SimpleData name="Field_1">Mittal Restaurant</SimpleData>
+		<SimpleData name="Latitude">28.394256</SimpleData>
+		<SimpleData name="Longitude">77.332253</SimpleData>
+		<SimpleData name="Name2">Mittal Restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.332253,28.3942559992101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shri Ram Confectionery</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">52</SimpleData>
+		<SimpleData name="Field_1">Shri Ram Confectionery</SimpleData>
+		<SimpleData name="Latitude">28.393579</SimpleData>
+		<SimpleData name="Longitude">77.289282</SimpleData>
+		<SimpleData name="Name2">Shri Ram Confectionery</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.289282,28.3935789992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bikaner Sweet Corner</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">53</SimpleData>
+		<SimpleData name="Field_1">Bikaner Sweet Corner</SimpleData>
+		<SimpleData name="Latitude">28.393395</SimpleData>
+		<SimpleData name="Longitude">77.289985</SimpleData>
+		<SimpleData name="Name2">Bikaner Sweet Corner</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.289985,28.3933949992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Arya Restaurant</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">54</SimpleData>
+		<SimpleData name="Field_1">Arya Restaurant</SimpleData>
+		<SimpleData name="Latitude">28.386285</SimpleData>
+		<SimpleData name="Longitude">77.306941</SimpleData>
+		<SimpleData name="Name2">Arya Restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.306941,28.3862849992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vishakha Hotel</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">55</SimpleData>
+		<SimpleData name="Field_1">Vishakha Hotel</SimpleData>
+		<SimpleData name="Latitude">28.395245</SimpleData>
+		<SimpleData name="Longitude">77.320683</SimpleData>
+		<SimpleData name="Name2">Vishakha Hotel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.320683,28.3952449992101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mini Restaurant</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">56</SimpleData>
+		<SimpleData name="Field_1">Mini Restaurant</SimpleData>
+		<SimpleData name="Latitude">28.3915</SimpleData>
+		<SimpleData name="Longitude">77.302619</SimpleData>
+		<SimpleData name="Name2">Mini Restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.302619,28.3914999992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Subhash Bakery</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">57</SimpleData>
+		<SimpleData name="Field_1">Subhash Bakery</SimpleData>
+		<SimpleData name="Latitude">28.381393</SimpleData>
+		<SimpleData name="Longitude">77.301794</SimpleData>
+		<SimpleData name="Name2">Subhash Bakery</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.301794,28.3813929992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Muskan Sweets And Snack</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">58</SimpleData>
+		<SimpleData name="Field_1">Muskan Sweets And Snack</SimpleData>
+		<SimpleData name="Latitude">28.381546</SimpleData>
+		<SimpleData name="Longitude">77.302087</SimpleData>
+		<SimpleData name="Name2">Muskan Sweets And Snack</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.302087,28.3815459992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mohit Dairy</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">59</SimpleData>
+		<SimpleData name="Field_1">Mohit Dairy</SimpleData>
+		<SimpleData name="Latitude">28.36914</SimpleData>
+		<SimpleData name="Longitude">77.326738</SimpleData>
+		<SimpleData name="Name2">Mohit Dairy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.326738,28.3691399992106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sagar Bakery</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">60</SimpleData>
+		<SimpleData name="Field_1">Sagar Bakery</SimpleData>
+		<SimpleData name="Latitude">28.369152</SimpleData>
+		<SimpleData name="Longitude">77.326807</SimpleData>
+		<SimpleData name="Name2">Sagar Bakery</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.326807,28.3691519992106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Patio</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">61</SimpleData>
+		<SimpleData name="Field_1">Patio</SimpleData>
+		<SimpleData name="Latitude">28.389921</SimpleData>
+		<SimpleData name="Longitude">77.306216</SimpleData>
+		<SimpleData name="Name2">Patio</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.306216,28.3899209992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Saksham Confectionery</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">62</SimpleData>
+		<SimpleData name="Field_1">Saksham Confectionery</SimpleData>
+		<SimpleData name="Latitude">28.363318</SimpleData>
+		<SimpleData name="Longitude">77.324295</SimpleData>
+		<SimpleData name="Name2">Saksham Confectionery</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.324295,28.3633179992107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rama Krishna Sweet</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">63</SimpleData>
+		<SimpleData name="Field_1">Rama Krishna Sweet</SimpleData>
+		<SimpleData name="Latitude">28.363848</SimpleData>
+		<SimpleData name="Longitude">77.326688</SimpleData>
+		<SimpleData name="Name2">Rama Krishna Sweet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.326688,28.3638479992107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bikaner Sweet</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">64</SimpleData>
+		<SimpleData name="Field_1">Bikaner Sweet</SimpleData>
+		<SimpleData name="Latitude">28.363486</SimpleData>
+		<SimpleData name="Longitude">77.326244</SimpleData>
+		<SimpleData name="Name2">Bikaner Sweet</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.326244,28.3634859992107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cafe Coffee Day</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Coffee Shops</SimpleData>
+		<SimpleData name="FID">65</SimpleData>
+		<SimpleData name="Field_1">Cafe Coffee Day</SimpleData>
+		<SimpleData name="Latitude">28.383444</SimpleData>
+		<SimpleData name="Longitude">77.313921</SimpleData>
+		<SimpleData name="Name2">Cafe Coffee Day</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.313921,28.3834439992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bikaner Mistan Bhandar</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">66</SimpleData>
+		<SimpleData name="Field_1">Bikaner Mistan Bhandar</SimpleData>
+		<SimpleData name="Latitude">28.369163</SimpleData>
+		<SimpleData name="Longitude">77.327173</SimpleData>
+		<SimpleData name="Name2">Bikaner Mistan Bhandar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.327173,28.3691629992106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shiv Sweet And Restaurant</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">67</SimpleData>
+		<SimpleData name="Field_1">Shiv Sweet And Restaurant</SimpleData>
+		<SimpleData name="Latitude">28.369225</SimpleData>
+		<SimpleData name="Longitude">77.328318</SimpleData>
+		<SimpleData name="Name2">Shiv Sweet And Restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.328318,28.3692249992106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vegas Dreams</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">68</SimpleData>
+		<SimpleData name="Field_1">Vegas Dreams</SimpleData>
+		<SimpleData name="Latitude">28.372019</SimpleData>
+		<SimpleData name="Longitude">77.319867</SimpleData>
+		<SimpleData name="Name2">Vegas Dreams</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.319867,28.3720189992105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mohan Dairy</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">69</SimpleData>
+		<SimpleData name="Field_1">Mohan Dairy</SimpleData>
+		<SimpleData name="Latitude">28.369232</SimpleData>
+		<SimpleData name="Longitude">77.328298</SimpleData>
+		<SimpleData name="Name2">Mohan Dairy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.328298,28.3692319992106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Milan Sweet House</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">70</SimpleData>
+		<SimpleData name="Field_1">Milan Sweet House</SimpleData>
+		<SimpleData name="Latitude">28.369245</SimpleData>
+		<SimpleData name="Longitude">77.328542</SimpleData>
+		<SimpleData name="Name2">Milan Sweet House</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.328542,28.3692449992106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Milan Sweet House</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">71</SimpleData>
+		<SimpleData name="Field_1">Milan Sweet House</SimpleData>
+		<SimpleData name="Latitude">28.37257</SimpleData>
+		<SimpleData name="Longitude">77.318225</SimpleData>
+		<SimpleData name="Name2">Milan Sweet House</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.318225,28.3725699992106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sangam</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">72</SimpleData>
+		<SimpleData name="Field_1">Sangam</SimpleData>
+		<SimpleData name="Latitude">28.374952</SimpleData>
+		<SimpleData name="Longitude">77.297946</SimpleData>
+		<SimpleData name="Name2">Sangam</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.297946,28.3749519992105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dawat Restaurant</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">73</SimpleData>
+		<SimpleData name="Field_1">Dawat Restaurant</SimpleData>
+		<SimpleData name="Latitude">28.374831</SimpleData>
+		<SimpleData name="Longitude">77.297954</SimpleData>
+		<SimpleData name="Name2">Dawat Restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.297954,28.3748309992105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Anupam Sweets</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">74</SimpleData>
+		<SimpleData name="Field_1">Anupam Sweets</SimpleData>
+		<SimpleData name="Latitude">28.395246</SimpleData>
+		<SimpleData name="Longitude">77.322452</SimpleData>
+		<SimpleData name="Name2">Anupam Sweets</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.322452,28.3952459992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Raj Bar Be Que</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">75</SimpleData>
+		<SimpleData name="Field_1">Raj Bar Be Que</SimpleData>
+		<SimpleData name="Latitude">28.395271</SimpleData>
+		<SimpleData name="Longitude">77.32107</SimpleData>
+		<SimpleData name="Name2">Raj Bar Be Que</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.32107,28.3952709992101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Epsha Chicken Corner</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">76</SimpleData>
+		<SimpleData name="Field_1">Epsha Chicken Corner</SimpleData>
+		<SimpleData name="Latitude">28.383573</SimpleData>
+		<SimpleData name="Longitude">77.303841</SimpleData>
+		<SimpleData name="Name2">Epsha Chicken Corner</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.303841,28.3835729992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Batra Restaurant</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">77</SimpleData>
+		<SimpleData name="Field_1">Batra Restaurant</SimpleData>
+		<SimpleData name="Latitude">28.391446</SimpleData>
+		<SimpleData name="Longitude">77.305447</SimpleData>
+		<SimpleData name="Name2">Batra Restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.305447,28.3914459992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Punjabi Restaurant</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">78</SimpleData>
+		<SimpleData name="Field_1">Punjabi Restaurant</SimpleData>
+		<SimpleData name="Latitude">28.385924</SimpleData>
+		<SimpleData name="Longitude">77.29909</SimpleData>
+		<SimpleData name="Name2">Punjabi Restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.29909,28.3859239992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Flavours India</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">79</SimpleData>
+		<SimpleData name="Field_1">Flavours India</SimpleData>
+		<SimpleData name="Latitude">28.369098</SimpleData>
+		<SimpleData name="Longitude">77.325882</SimpleData>
+		<SimpleData name="Name2">Flavours India</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.325882,28.3690979992106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bikaners Sweets Snakes And Namkeen</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">80</SimpleData>
+		<SimpleData name="Field_1">Bikaners Sweets Snakes And Namkeen</SimpleData>
+		<SimpleData name="Latitude">28.380725</SimpleData>
+		<SimpleData name="Longitude">77.297528</SimpleData>
+		<SimpleData name="Name2">Bikaners Sweets Snakes And Namkeen</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.297528,28.3807249992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tanya Confectioners</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">81</SimpleData>
+		<SimpleData name="Field_1">Tanya Confectioners</SimpleData>
+		<SimpleData name="Latitude">28.380471</SimpleData>
+		<SimpleData name="Longitude">77.299099</SimpleData>
+		<SimpleData name="Name2">Tanya Confectioners</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.299099,28.3804709992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tandoori Nights</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">82</SimpleData>
+		<SimpleData name="Field_1">Tandoori Nights</SimpleData>
+		<SimpleData name="Latitude">28.371821</SimpleData>
+		<SimpleData name="Longitude">77.327849</SimpleData>
+		<SimpleData name="Name2">Tandoori Nights</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.327849,28.3718209992106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chirag Sweet And Snacks House</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">83</SimpleData>
+		<SimpleData name="Field_1">Chirag Sweet And Snacks House</SimpleData>
+		<SimpleData name="Latitude">28.380979</SimpleData>
+		<SimpleData name="Longitude">77.291366</SimpleData>
+		<SimpleData name="Name2">Chirag Sweet And Snacks House</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.291366,28.3809789992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>J K Confectionery Store</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">84</SimpleData>
+		<SimpleData name="Field_1">J K Confectionery Store</SimpleData>
+		<SimpleData name="Latitude">28.380736</SimpleData>
+		<SimpleData name="Longitude">77.292224</SimpleData>
+		<SimpleData name="Name2">J K Confectionery Store</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.292224,28.3807359992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Murari Confectionery</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">85</SimpleData>
+		<SimpleData name="Field_1">Murari Confectionery</SimpleData>
+		<SimpleData name="Latitude">28.380689</SimpleData>
+		<SimpleData name="Longitude">77.292564</SimpleData>
+		<SimpleData name="Name2">Murari Confectionery</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.292564,28.3806889992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bikaner</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">86</SimpleData>
+		<SimpleData name="Field_1">Bikaner</SimpleData>
+		<SimpleData name="Latitude">28.392732</SimpleData>
+		<SimpleData name="Longitude">77.305987</SimpleData>
+		<SimpleData name="Name2">Bikaner</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.305987,28.3927319992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dinar</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">87</SimpleData>
+		<SimpleData name="Field_1">Dinar</SimpleData>
+		<SimpleData name="Latitude">28.392022</SimpleData>
+		<SimpleData name="Longitude">77.304969</SimpleData>
+		<SimpleData name="Name2">Dinar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.304969,28.3920219992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 Days</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">88</SimpleData>
+		<SimpleData name="Field_1">7 Days</SimpleData>
+		<SimpleData name="Latitude">28.387033</SimpleData>
+		<SimpleData name="Longitude">77.313473</SimpleData>
+		<SimpleData name="Name2">7 Days</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.313473,28.3870329992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cafe Nescafe</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Coffee Shops</SimpleData>
+		<SimpleData name="FID">89</SimpleData>
+		<SimpleData name="Field_1">Cafe Nescafe</SimpleData>
+		<SimpleData name="Latitude">28.386793</SimpleData>
+		<SimpleData name="Longitude">77.317307</SimpleData>
+		<SimpleData name="Name2">Cafe Nescafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.317307,28.3867929992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SRS Family Restaurant</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">90</SimpleData>
+		<SimpleData name="Field_1">SRS Family Restaurant</SimpleData>
+		<SimpleData name="Latitude">28.390518</SimpleData>
+		<SimpleData name="Longitude">77.306103</SimpleData>
+		<SimpleData name="Name2">SRS Family Restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.306103,28.3905179992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Taste of India</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">91</SimpleData>
+		<SimpleData name="Field_1">Taste of India</SimpleData>
+		<SimpleData name="Latitude">28.387033</SimpleData>
+		<SimpleData name="Longitude">77.313473</SimpleData>
+		<SimpleData name="Name2">Taste of India</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.313473,28.3870329992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dazzle</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Pubs &amp;amp; Bars</SimpleData>
+		<SimpleData name="FID">92</SimpleData>
+		<SimpleData name="Field_1">Dazzle</SimpleData>
+		<SimpleData name="Latitude">28.390518</SimpleData>
+		<SimpleData name="Longitude">77.306103</SimpleData>
+		<SimpleData name="Name2">Dazzle</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.306103,28.3905179992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Delight Nonveg Foods</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">93</SimpleData>
+		<SimpleData name="Field_1">Delight Nonveg Foods</SimpleData>
+		<SimpleData name="Latitude">28.391461</SimpleData>
+		<SimpleData name="Longitude">77.293168</SimpleData>
+		<SimpleData name="Name2">Delight Nonveg Foods</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.293168,28.3914609992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hunger Cure</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Oriental</SimpleData>
+		<SimpleData name="FID">94</SimpleData>
+		<SimpleData name="Field_1">Hunger Cure</SimpleData>
+		<SimpleData name="Latitude">28.394694</SimpleData>
+		<SimpleData name="Longitude">77.330179</SimpleData>
+		<SimpleData name="Name2">Hunger Cure</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.330179,28.3946939992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lizo Canteen</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">95</SimpleData>
+		<SimpleData name="Field_1">Lizo Canteen</SimpleData>
+		<SimpleData name="Latitude">28.36852</SimpleData>
+		<SimpleData name="Longitude">77.317292</SimpleData>
+		<SimpleData name="Name2">Lizo Canteen</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.317292,28.3685199992106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Toxix Restro</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">96</SimpleData>
+		<SimpleData name="Field_1">Toxix Restro</SimpleData>
+		<SimpleData name="Latitude">28.366033</SimpleData>
+		<SimpleData name="Longitude">77.309662</SimpleData>
+		<SimpleData name="Name2">Toxix Restro</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.309662,28.3660329992107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gianis</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">97</SimpleData>
+		<SimpleData name="Field_1">Gianis</SimpleData>
+		<SimpleData name="Latitude">28.395376</SimpleData>
+		<SimpleData name="Longitude">77.322592</SimpleData>
+		<SimpleData name="Name2">Gianis</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.322592,28.3953759992101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Arabian Nyts</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">98</SimpleData>
+		<SimpleData name="Field_1">Arabian Nyts</SimpleData>
+		<SimpleData name="Latitude">28.394729</SimpleData>
+		<SimpleData name="Longitude">77.32176</SimpleData>
+		<SimpleData name="Name2">Arabian Nyts</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.32176,28.3947289992101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oasis Hookah Lounge</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">99</SimpleData>
+		<SimpleData name="Field_1">Oasis Hookah Lounge</SimpleData>
+		<SimpleData name="Latitude">28.39472</SimpleData>
+		<SimpleData name="Longitude">77.321751</SimpleData>
+		<SimpleData name="Name2">Oasis Hookah Lounge</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.321751,28.3947199992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cafe Parmesan</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Coffee Shops</SimpleData>
+		<SimpleData name="FID">100</SimpleData>
+		<SimpleData name="Field_1">Cafe Parmesan</SimpleData>
+		<SimpleData name="Latitude">28.394986</SimpleData>
+		<SimpleData name="Longitude">77.321727</SimpleData>
+		<SimpleData name="Name2">Cafe Parmesan</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.321727,28.3949859992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dominos</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Fast Food</SimpleData>
+		<SimpleData name="FID">101</SimpleData>
+		<SimpleData name="Field_1">Dominos</SimpleData>
+		<SimpleData name="Latitude">28.383673</SimpleData>
+		<SimpleData name="Longitude">77.313899</SimpleData>
+		<SimpleData name="Name2">Dominos</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.313899,28.3836729992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Flamez</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">102</SimpleData>
+		<SimpleData name="Field_1">Flamez</SimpleData>
+		<SimpleData name="Latitude">28.386716</SimpleData>
+		<SimpleData name="Longitude">77.317232</SimpleData>
+		<SimpleData name="Name2">Flamez</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.317232,28.3867159992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Anupam Sweet House</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">103</SimpleData>
+		<SimpleData name="Field_1">Anupam Sweet House</SimpleData>
+		<SimpleData name="Latitude">28.391353</SimpleData>
+		<SimpleData name="Longitude">77.301711</SimpleData>
+		<SimpleData name="Name2">Anupam Sweet House</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.301711,28.3913529992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dominos</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Fast Food</SimpleData>
+		<SimpleData name="FID">104</SimpleData>
+		<SimpleData name="Field_1">Dominos</SimpleData>
+		<SimpleData name="Latitude">28.390242</SimpleData>
+		<SimpleData name="Longitude">77.301548</SimpleData>
+		<SimpleData name="Name2">Dominos</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.301548,28.3902419992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bikaner Mishthan Bhandar</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">105</SimpleData>
+		<SimpleData name="Field_1">Bikaner Mishthan Bhandar</SimpleData>
+		<SimpleData name="Latitude">28.389921</SimpleData>
+		<SimpleData name="Longitude">77.301477</SimpleData>
+		<SimpleData name="Name2">Bikaner Mishthan Bhandar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.301477,28.3899209992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Le Moksh</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Continental</SimpleData>
+		<SimpleData name="FID">106</SimpleData>
+		<SimpleData name="Field_1">Le Moksh</SimpleData>
+		<SimpleData name="Latitude">28.383492</SimpleData>
+		<SimpleData name="Longitude">77.313916</SimpleData>
+		<SimpleData name="Name2">Le Moksh</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.313916,28.3834919992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shehnai Restaurant</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">107</SimpleData>
+		<SimpleData name="Field_1">Shehnai Restaurant</SimpleData>
+		<SimpleData name="Latitude">28.391495</SimpleData>
+		<SimpleData name="Longitude">77.302556</SimpleData>
+		<SimpleData name="Name2">Shehnai Restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.302556,28.3914949992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bhawani Misthan Bhandar</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">108</SimpleData>
+		<SimpleData name="Field_1">Bhawani Misthan Bhandar</SimpleData>
+		<SimpleData name="Latitude">28.380807</SimpleData>
+		<SimpleData name="Longitude">77.297449</SimpleData>
+		<SimpleData name="Name2">Bhawani Misthan Bhandar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.297449,28.3808069992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sethi Delicacy Bakers And Confectioners</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">109</SimpleData>
+		<SimpleData name="Field_1">Sethi Delicacy Bakers And Confectioners</SimpleData>
+		<SimpleData name="Latitude">28.395135</SimpleData>
+		<SimpleData name="Longitude">77.324658</SimpleData>
+		<SimpleData name="Name2">Sethi Delicacy Bakers And Confectioners</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.324658,28.3951349992101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Anupam Sweets House</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">110</SimpleData>
+		<SimpleData name="Field_1">Anupam Sweets House</SimpleData>
+		<SimpleData name="Latitude">28.391099</SimpleData>
+		<SimpleData name="Longitude">77.30198</SimpleData>
+		<SimpleData name="Name2">Anupam Sweets House</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.30198,28.3910989992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Punjabi Haandi</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">111</SimpleData>
+		<SimpleData name="Field_1">Punjabi Haandi</SimpleData>
+		<SimpleData name="Latitude">28.386716</SimpleData>
+		<SimpleData name="Longitude">77.317232</SimpleData>
+		<SimpleData name="Name2">Punjabi Haandi</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.317232,28.3867159992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brew N Barrel</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Pubs &amp;amp; Bars</SimpleData>
+		<SimpleData name="FID">112</SimpleData>
+		<SimpleData name="Field_1">Brew N Barrel</SimpleData>
+		<SimpleData name="Latitude">28.383673</SimpleData>
+		<SimpleData name="Longitude">77.313899</SimpleData>
+		<SimpleData name="Name2">Brew N Barrel</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.313899,28.3836729992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chop Shop</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">113</SimpleData>
+		<SimpleData name="Field_1">Chop Shop</SimpleData>
+		<SimpleData name="Latitude">28.392297</SimpleData>
+		<SimpleData name="Longitude">77.306556</SimpleData>
+		<SimpleData name="Name2">Chop Shop</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.306556,28.3922969992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Khalsa Chicken Corner</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">114</SimpleData>
+		<SimpleData name="Field_1">Khalsa Chicken Corner</SimpleData>
+		<SimpleData name="Latitude">28.38778</SimpleData>
+		<SimpleData name="Longitude">77.306744</SimpleData>
+		<SimpleData name="Name2">Khalsa Chicken Corner</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.306744,28.3877799992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Crazy Chaap</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">115</SimpleData>
+		<SimpleData name="Field_1">Crazy Chaap</SimpleData>
+		<SimpleData name="Latitude">28.385984</SimpleData>
+		<SimpleData name="Longitude">77.306831</SimpleData>
+		<SimpleData name="Name2">Crazy Chaap</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.306831,28.3859839992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sheree Punjab</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">116</SimpleData>
+		<SimpleData name="Field_1">Sheree Punjab</SimpleData>
+		<SimpleData name="Latitude">28.391467</SimpleData>
+		<SimpleData name="Longitude">77.305703</SimpleData>
+		<SimpleData name="Name2">Sheree Punjab</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.305703,28.3914669992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cafe Bite</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">117</SimpleData>
+		<SimpleData name="Field_1">Cafe Bite</SimpleData>
+		<SimpleData name="Latitude">28.383492</SimpleData>
+		<SimpleData name="Longitude">77.313916</SimpleData>
+		<SimpleData name="Name2">Cafe Bite</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.313916,28.3834919992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Haldirams</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">118</SimpleData>
+		<SimpleData name="Field_1">Haldirams</SimpleData>
+		<SimpleData name="Latitude">28.383444</SimpleData>
+		<SimpleData name="Longitude">77.313921</SimpleData>
+		<SimpleData name="Name2">Haldirams</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.313921,28.3834439992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Karims</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">119</SimpleData>
+		<SimpleData name="Field_1">Karims</SimpleData>
+		<SimpleData name="Latitude">28.387033</SimpleData>
+		<SimpleData name="Longitude">77.313474</SimpleData>
+		<SimpleData name="Name2">Karims</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.313474,28.3870329992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Republic of Chicken</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">120</SimpleData>
+		<SimpleData name="Field_1">Republic of Chicken</SimpleData>
+		<SimpleData name="Latitude">28.390518</SimpleData>
+		<SimpleData name="Longitude">77.306103</SimpleData>
+		<SimpleData name="Name2">Republic of Chicken</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.306103,28.3905179992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Punjabi Chicken</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">121</SimpleData>
+		<SimpleData name="Field_1">Punjabi Chicken</SimpleData>
+		<SimpleData name="Latitude">28.392656</SimpleData>
+		<SimpleData name="Longitude">77.306878</SimpleData>
+		<SimpleData name="Name2">Punjabi Chicken</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.306878,28.3926559992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Beijing Garden</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Oriental</SimpleData>
+		<SimpleData name="FID">122</SimpleData>
+		<SimpleData name="Field_1">Beijing Garden</SimpleData>
+		<SimpleData name="Latitude">28.38416</SimpleData>
+		<SimpleData name="Longitude">77.324576</SimpleData>
+		<SimpleData name="Name2">Beijing Garden</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.324576,28.3841599992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Red Dragon</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">123</SimpleData>
+		<SimpleData name="Field_1">Red Dragon</SimpleData>
+		<SimpleData name="Latitude">28.394683</SimpleData>
+		<SimpleData name="Longitude">77.330035</SimpleData>
+		<SimpleData name="Name2">Red Dragon</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.330035,28.3946829992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Food Affaire</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">124</SimpleData>
+		<SimpleData name="Field_1">Food Affaire</SimpleData>
+		<SimpleData name="Latitude">28.394683</SimpleData>
+		<SimpleData name="Longitude">77.330035</SimpleData>
+		<SimpleData name="Name2">Food Affaire</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.330035,28.3946829992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Muglai Lahjawab</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">125</SimpleData>
+		<SimpleData name="Field_1">Muglai Lahjawab</SimpleData>
+		<SimpleData name="Latitude">28.366623</SimpleData>
+		<SimpleData name="Longitude">77.32879</SimpleData>
+		<SimpleData name="Name2">Muglai Lahjawab</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.32879,28.3666229992107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Saras Vyanjan</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">126</SimpleData>
+		<SimpleData name="Field_1">Saras Vyanjan</SimpleData>
+		<SimpleData name="Latitude">28.369108</SimpleData>
+		<SimpleData name="Longitude">77.328578</SimpleData>
+		<SimpleData name="Name2">Saras Vyanjan</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.328578,28.3691079992106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JP Store And Confectioners</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">127</SimpleData>
+		<SimpleData name="Field_1">JP Store And Confectioners</SimpleData>
+		<SimpleData name="Latitude">28.380714</SimpleData>
+		<SimpleData name="Longitude">77.297529</SimpleData>
+		<SimpleData name="Name2">JP Store And Confectioners</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.297529,28.3807139992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rama Restaurant</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">128</SimpleData>
+		<SimpleData name="Field_1">Rama Restaurant</SimpleData>
+		<SimpleData name="Latitude">28.363931</SimpleData>
+		<SimpleData name="Longitude">77.323875</SimpleData>
+		<SimpleData name="Name2">Rama Restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.323875,28.3639309992107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Red Dragon</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">129</SimpleData>
+		<SimpleData name="Field_1">Red Dragon</SimpleData>
+		<SimpleData name="Latitude">28.395177</SimpleData>
+		<SimpleData name="Longitude">77.324665</SimpleData>
+		<SimpleData name="Name2">Red Dragon</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.324665,28.3951769992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gopalz</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">130</SimpleData>
+		<SimpleData name="Field_1">Gopalz</SimpleData>
+		<SimpleData name="Latitude">28.386399</SimpleData>
+		<SimpleData name="Longitude">77.302077</SimpleData>
+		<SimpleData name="Name2">Gopalz</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.302077,28.3863989992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kerala Bhawan</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">131</SimpleData>
+		<SimpleData name="Field_1">Kerala Bhawan</SimpleData>
+		<SimpleData name="Latitude">28.380617</SimpleData>
+		<SimpleData name="Longitude">77.302101</SimpleData>
+		<SimpleData name="Name2">Kerala Bhawan</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.302101,28.3806169992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sapna Bakery</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">132</SimpleData>
+		<SimpleData name="Field_1">Sapna Bakery</SimpleData>
+		<SimpleData name="Latitude">28.381738</SimpleData>
+		<SimpleData name="Longitude">77.303244</SimpleData>
+		<SimpleData name="Name2">Sapna Bakery</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.303244,28.3817379992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Milan Restaurant</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">133</SimpleData>
+		<SimpleData name="Field_1">Milan Restaurant</SimpleData>
+		<SimpleData name="Latitude">28.394608</SimpleData>
+		<SimpleData name="Longitude">77.328981</SimpleData>
+		<SimpleData name="Name2">Milan Restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.328981,28.3946079992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shri Balaji Confectioners</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">134</SimpleData>
+		<SimpleData name="Field_1">Shri Balaji Confectioners</SimpleData>
+		<SimpleData name="Latitude">28.385927</SimpleData>
+		<SimpleData name="Longitude">77.305007</SimpleData>
+		<SimpleData name="Name2">Shri Balaji Confectioners</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.305007,28.3859269992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>McDonalds</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Fast Food</SimpleData>
+		<SimpleData name="FID">135</SimpleData>
+		<SimpleData name="Field_1">McDonalds</SimpleData>
+		<SimpleData name="Latitude">28.386793</SimpleData>
+		<SimpleData name="Longitude">77.317307</SimpleData>
+		<SimpleData name="Name2">McDonalds</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.317307,28.3867929992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Barista</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Coffee Shops</SimpleData>
+		<SimpleData name="FID">136</SimpleData>
+		<SimpleData name="Field_1">Barista</SimpleData>
+		<SimpleData name="Latitude">28.380373</SimpleData>
+		<SimpleData name="Longitude">77.313523</SimpleData>
+		<SimpleData name="Name2">Barista</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.313523,28.3803729992105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bhatia Restaurant And Sweets Shop</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">137</SimpleData>
+		<SimpleData name="Field_1">Bhatia Restaurant And Sweets Shop</SimpleData>
+		<SimpleData name="Latitude">28.365742</SimpleData>
+		<SimpleData name="Longitude">77.309386</SimpleData>
+		<SimpleData name="Name2">Bhatia Restaurant And Sweets Shop</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.309386,28.3657419992107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ahuja Restaurant</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">138</SimpleData>
+		<SimpleData name="Field_1">Ahuja Restaurant</SimpleData>
+		<SimpleData name="Latitude">28.389842</SimpleData>
+		<SimpleData name="Longitude">77.301611</SimpleData>
+		<SimpleData name="Name2">Ahuja Restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.301611,28.3898419992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dominos</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Fast Food</SimpleData>
+		<SimpleData name="FID">139</SimpleData>
+		<SimpleData name="Field_1">Dominos</SimpleData>
+		<SimpleData name="Latitude">28.384142</SimpleData>
+		<SimpleData name="Longitude">77.324311</SimpleData>
+		<SimpleData name="Name2">Dominos</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.324311,28.3841419992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Donna Foods</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">140</SimpleData>
+		<SimpleData name="Field_1">Donna Foods</SimpleData>
+		<SimpleData name="Latitude">28.386793</SimpleData>
+		<SimpleData name="Longitude">77.317307</SimpleData>
+		<SimpleData name="Name2">Donna Foods</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.317307,28.3867929992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>McDonalds</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Fast Food</SimpleData>
+		<SimpleData name="FID">141</SimpleData>
+		<SimpleData name="Field_1">McDonalds</SimpleData>
+		<SimpleData name="Latitude">28.380373</SimpleData>
+		<SimpleData name="Longitude">77.313523</SimpleData>
+		<SimpleData name="Name2">McDonalds</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.313523,28.3803729992105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Muskan Sweets And Snacks</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">142</SimpleData>
+		<SimpleData name="Field_1">Muskan Sweets And Snacks</SimpleData>
+		<SimpleData name="Latitude">28.387784</SimpleData>
+		<SimpleData name="Longitude">77.30435</SimpleData>
+		<SimpleData name="Name2">Muskan Sweets And Snacks</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.30435,28.3877839992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Diwan Confectioners</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">143</SimpleData>
+		<SimpleData name="Field_1">Diwan Confectioners</SimpleData>
+		<SimpleData name="Latitude">28.380398</SimpleData>
+		<SimpleData name="Longitude">77.296675</SimpleData>
+		<SimpleData name="Name2">Diwan Confectioners</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.296675,28.3803979992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Virmani Confectioner</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">144</SimpleData>
+		<SimpleData name="Field_1">Virmani Confectioner</SimpleData>
+		<SimpleData name="Latitude">28.380667</SimpleData>
+		<SimpleData name="Longitude">77.292764</SimpleData>
+		<SimpleData name="Name2">Virmani Confectioner</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.292764,28.3806669992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Raj Confectioners And Bakers</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">145</SimpleData>
+		<SimpleData name="Field_1">Raj Confectioners And Bakers</SimpleData>
+		<SimpleData name="Latitude">28.385492</SimpleData>
+		<SimpleData name="Longitude">77.30477</SimpleData>
+		<SimpleData name="Name2">Raj Confectioners And Bakers</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.30477,28.3854919992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shiv Sweets House And Caterers</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">146</SimpleData>
+		<SimpleData name="Field_1">Shiv Sweets House And Caterers</SimpleData>
+		<SimpleData name="Latitude">28.369201</SimpleData>
+		<SimpleData name="Longitude">77.327871</SimpleData>
+		<SimpleData name="Name2">Shiv Sweets House And Caterers</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.327871,28.3692009992106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Batra Confectioner</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">147</SimpleData>
+		<SimpleData name="Field_1">Batra Confectioner</SimpleData>
+		<SimpleData name="Latitude">28.393028</SimpleData>
+		<SimpleData name="Longitude">77.301663</SimpleData>
+		<SimpleData name="Name2">Batra Confectioner</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.301663,28.3930279992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maharaja Restaurant</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">148</SimpleData>
+		<SimpleData name="Field_1">Maharaja Restaurant</SimpleData>
+		<SimpleData name="Latitude">28.381187</SimpleData>
+		<SimpleData name="Longitude">77.306822</SimpleData>
+		<SimpleData name="Name2">Maharaja Restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.306822,28.3811869992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paras Ice Cream</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">149</SimpleData>
+		<SimpleData name="Field_1">Paras Ice Cream</SimpleData>
+		<SimpleData name="Latitude">28.36922</SimpleData>
+		<SimpleData name="Longitude">77.328077</SimpleData>
+		<SimpleData name="Name2">Paras Ice Cream</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.328077,28.3692199992106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Golden Oven Bakery And Fast Food Funcation</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">150</SimpleData>
+		<SimpleData name="Field_1">Golden Oven Bakery And Fast Food Funcation</SimpleData>
+		<SimpleData name="Latitude">28.369232</SimpleData>
+		<SimpleData name="Longitude">77.328287</SimpleData>
+		<SimpleData name="Name2">Golden Oven Bakery And Fast Food Funcation</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.328287,28.3692319992106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rikki Bhatia Sweets And Paneer Bhandar</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">151</SimpleData>
+		<SimpleData name="Field_1">Rikki Bhatia Sweets And Paneer Bhandar</SimpleData>
+		<SimpleData name="Latitude">28.380816</SimpleData>
+		<SimpleData name="Longitude">77.291824</SimpleData>
+		<SimpleData name="Name2">Rikki Bhatia Sweets And Paneer Bhandar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.291824,28.3808159992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chicken Com</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">152</SimpleData>
+		<SimpleData name="Field_1">Chicken Com</SimpleData>
+		<SimpleData name="Latitude">28.380767</SimpleData>
+		<SimpleData name="Longitude">77.295993</SimpleData>
+		<SimpleData name="Name2">Chicken Com</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.295993,28.3807669992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rolly Polly</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">153</SimpleData>
+		<SimpleData name="Field_1">Rolly Polly</SimpleData>
+		<SimpleData name="Latitude">28.375854</SimpleData>
+		<SimpleData name="Longitude">77.333133</SimpleData>
+		<SimpleData name="Name2">Rolly Polly</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.333133,28.3758539992105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chawla Bakery</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">154</SimpleData>
+		<SimpleData name="Field_1">Chawla Bakery</SimpleData>
+		<SimpleData name="Latitude">28.38068</SimpleData>
+		<SimpleData name="Longitude">77.294319</SimpleData>
+		<SimpleData name="Name2">Chawla Bakery</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.294319,28.3806799992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Swad Restaurant</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">155</SimpleData>
+		<SimpleData name="Field_1">Swad Restaurant</SimpleData>
+		<SimpleData name="Latitude">28.392571</SimpleData>
+		<SimpleData name="Longitude">77.303937</SimpleData>
+		<SimpleData name="Name2">Swad Restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.303937,28.3925709992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maharaja Bar</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Pubs &amp;amp; Bars</SimpleData>
+		<SimpleData name="FID">156</SimpleData>
+		<SimpleData name="Field_1">Maharaja Bar</SimpleData>
+		<SimpleData name="Latitude">28.381187</SimpleData>
+		<SimpleData name="Longitude">77.306822</SimpleData>
+		<SimpleData name="Name2">Maharaja Bar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.306822,28.3811869992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Subhash Restaurant And Bar</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Pubs &amp;amp; Bars</SimpleData>
+		<SimpleData name="FID">157</SimpleData>
+		<SimpleData name="Field_1">Subhash Restaurant And Bar</SimpleData>
+		<SimpleData name="Latitude">28.395246</SimpleData>
+		<SimpleData name="Longitude">77.32246</SimpleData>
+		<SimpleData name="Name2">Subhash Restaurant And Bar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.32246,28.3952459992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hamari Rasoi</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">158</SimpleData>
+		<SimpleData name="Field_1">Hamari Rasoi</SimpleData>
+		<SimpleData name="Latitude">28.394577</SimpleData>
+		<SimpleData name="Longitude">77.305638</SimpleData>
+		<SimpleData name="Name2">Hamari Rasoi</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.305638,28.3945769992101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Neeraj Caterers</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">159</SimpleData>
+		<SimpleData name="Field_1">Neeraj Caterers</SimpleData>
+		<SimpleData name="Latitude">28.394615</SimpleData>
+		<SimpleData name="Longitude">77.323508</SimpleData>
+		<SimpleData name="Name2">Neeraj Caterers</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.323508,28.3946149992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chaudhary Caterers And Decorators</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">160</SimpleData>
+		<SimpleData name="Field_1">Chaudhary Caterers And Decorators</SimpleData>
+		<SimpleData name="Latitude">28.394624</SimpleData>
+		<SimpleData name="Longitude">77.323665</SimpleData>
+		<SimpleData name="Name2">Chaudhary Caterers And Decorators</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.323665,28.3946239992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bikaner Misthan Bhandar</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">161</SimpleData>
+		<SimpleData name="Field_1">Bikaner Misthan Bhandar</SimpleData>
+		<SimpleData name="Latitude">28.363101</SimpleData>
+		<SimpleData name="Longitude">77.325964</SimpleData>
+		<SimpleData name="Name2">Bikaner Misthan Bhandar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.325964,28.3631009992107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kabab Chi</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">162</SimpleData>
+		<SimpleData name="Field_1">Kabab Chi</SimpleData>
+		<SimpleData name="Latitude">28.389169</SimpleData>
+		<SimpleData name="Longitude">77.304997</SimpleData>
+		<SimpleData name="Name2">Kabab Chi</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.304997,28.3891689992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dil Khush Ice Cream</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">163</SimpleData>
+		<SimpleData name="Field_1">Dil Khush Ice Cream</SimpleData>
+		<SimpleData name="Latitude">28.381019</SimpleData>
+		<SimpleData name="Longitude">77.299826</SimpleData>
+		<SimpleData name="Name2">Dil Khush Ice Cream</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.299826,28.3810189992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Punjabi Food Plaza</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">164</SimpleData>
+		<SimpleData name="Field_1">Punjabi Food Plaza</SimpleData>
+		<SimpleData name="Latitude">28.381722</SimpleData>
+		<SimpleData name="Longitude">77.297466</SimpleData>
+		<SimpleData name="Name2">Punjabi Food Plaza</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.297466,28.3817219992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Punjabi Sweets</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">165</SimpleData>
+		<SimpleData name="Field_1">Punjabi Sweets</SimpleData>
+		<SimpleData name="Latitude">28.381034</SimpleData>
+		<SimpleData name="Longitude">77.300135</SimpleData>
+		<SimpleData name="Name2">Punjabi Sweets</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.300135,28.3810339992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Delhi Juice Corner</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">166</SimpleData>
+		<SimpleData name="Field_1">Delhi Juice Corner</SimpleData>
+		<SimpleData name="Latitude">28.381273</SimpleData>
+		<SimpleData name="Longitude">77.301508</SimpleData>
+		<SimpleData name="Name2">Delhi Juice Corner</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.301508,28.3812729992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bikaner Sweets</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">167</SimpleData>
+		<SimpleData name="Field_1">Bikaner Sweets</SimpleData>
+		<SimpleData name="Latitude">28.388431</SimpleData>
+		<SimpleData name="Longitude">77.301488</SimpleData>
+		<SimpleData name="Name2">Bikaner Sweets</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.301488,28.3884309992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Umed Dairy And Sweets</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">168</SimpleData>
+		<SimpleData name="Field_1">Umed Dairy And Sweets</SimpleData>
+		<SimpleData name="Latitude">28.394705</SimpleData>
+		<SimpleData name="Longitude">77.330329</SimpleData>
+		<SimpleData name="Name2">Umed Dairy And Sweets</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.330329,28.3947049992101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MMI Sweet Corner</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">169</SimpleData>
+		<SimpleData name="Field_1">MMI Sweet Corner</SimpleData>
+		<SimpleData name="Latitude">28.364332</SimpleData>
+		<SimpleData name="Longitude">77.294217</SimpleData>
+		<SimpleData name="Name2">MMI Sweet Corner</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.294217,28.3643319992107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dana Pani</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">170</SimpleData>
+		<SimpleData name="Field_1">Dana Pani</SimpleData>
+		<SimpleData name="Latitude">28.389489</SimpleData>
+		<SimpleData name="Longitude">77.306189</SimpleData>
+		<SimpleData name="Name2">Dana Pani</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.306189,28.3894889992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ratra Sweets</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">171</SimpleData>
+		<SimpleData name="Field_1">Ratra Sweets</SimpleData>
+		<SimpleData name="Latitude">28.383495</SimpleData>
+		<SimpleData name="Longitude">77.302909</SimpleData>
+		<SimpleData name="Name2">Ratra Sweets</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.302909,28.3834949992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bikaner Mishthan Bhandar</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">172</SimpleData>
+		<SimpleData name="Field_1">Bikaner Mishthan Bhandar</SimpleData>
+		<SimpleData name="Latitude">28.388744</SimpleData>
+		<SimpleData name="Longitude">77.301064</SimpleData>
+		<SimpleData name="Name2">Bikaner Mishthan Bhandar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.301064,28.3887439992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SRS Family Restaurant</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">173</SimpleData>
+		<SimpleData name="Field_1">SRS Family Restaurant</SimpleData>
+		<SimpleData name="Latitude">28.386085</SimpleData>
+		<SimpleData name="Longitude">77.317746</SimpleData>
+		<SimpleData name="Name2">SRS Family Restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.317746,28.3860849992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gazal Restaurant And Caters</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">174</SimpleData>
+		<SimpleData name="Field_1">Gazal Restaurant And Caters</SimpleData>
+		<SimpleData name="Latitude">28.381359</SimpleData>
+		<SimpleData name="Longitude">77.297488</SimpleData>
+		<SimpleData name="Name2">Gazal Restaurant And Caters</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.297488,28.3813589992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Moskh</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Pubs &amp;amp; Bars</SimpleData>
+		<SimpleData name="FID">175</SimpleData>
+		<SimpleData name="Field_1">Moskh</SimpleData>
+		<SimpleData name="Latitude">28.383444</SimpleData>
+		<SimpleData name="Longitude">77.313921</SimpleData>
+		<SimpleData name="Name2">Moskh</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.313921,28.3834439992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Manpasand Restaurant</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">176</SimpleData>
+		<SimpleData name="Field_1">Manpasand Restaurant</SimpleData>
+		<SimpleData name="Latitude">28.363931</SimpleData>
+		<SimpleData name="Longitude">77.323875</SimpleData>
+		<SimpleData name="Name2">Manpasand Restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.323875,28.3639309992107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sethi Restaurant</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">177</SimpleData>
+		<SimpleData name="Field_1">Sethi Restaurant</SimpleData>
+		<SimpleData name="Latitude">28.363931</SimpleData>
+		<SimpleData name="Longitude">77.323875</SimpleData>
+		<SimpleData name="Name2">Sethi Restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.323875,28.3639309992107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kaushik Bakery</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">178</SimpleData>
+		<SimpleData name="Field_1">Kaushik Bakery</SimpleData>
+		<SimpleData name="Latitude">28.363318</SimpleData>
+		<SimpleData name="Longitude">77.324295</SimpleData>
+		<SimpleData name="Name2">Kaushik Bakery</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.324295,28.3633179992107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rakesh Caterers And Sons</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">179</SimpleData>
+		<SimpleData name="Field_1">Rakesh Caterers And Sons</SimpleData>
+		<SimpleData name="Latitude">28.395334</SimpleData>
+		<SimpleData name="Longitude">77.322103</SimpleData>
+		<SimpleData name="Name2">Rakesh Caterers And Sons</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.322103,28.3953339992101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mahak Restaurant</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">180</SimpleData>
+		<SimpleData name="Field_1">Mahak Restaurant</SimpleData>
+		<SimpleData name="Latitude">28.391673</SimpleData>
+		<SimpleData name="Longitude">77.310945</SimpleData>
+		<SimpleData name="Name2">Mahak Restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.310945,28.3916729992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cafe Coffee</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Coffee Shops</SimpleData>
+		<SimpleData name="FID">181</SimpleData>
+		<SimpleData name="Field_1">Cafe Coffee</SimpleData>
+		<SimpleData name="Latitude">28.394728</SimpleData>
+		<SimpleData name="Longitude">77.305653</SimpleData>
+		<SimpleData name="Name2">Cafe Coffee</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.305653,28.3947279992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sardarji Ki Mashoor Dhaba</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">182</SimpleData>
+		<SimpleData name="Field_1">Sardarji Ki Mashoor Dhaba</SimpleData>
+		<SimpleData name="Latitude">28.384046</SimpleData>
+		<SimpleData name="Longitude">77.304076</SimpleData>
+		<SimpleData name="Name2">Sardarji Ki Mashoor Dhaba</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.304076,28.3840459992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chacha Chaukhya Dhaba</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">183</SimpleData>
+		<SimpleData name="Field_1">Chacha Chaukhya Dhaba</SimpleData>
+		<SimpleData name="Latitude">28.382896</SimpleData>
+		<SimpleData name="Longitude">77.30447</SimpleData>
+		<SimpleData name="Name2">Chacha Chaukhya Dhaba</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.30447,28.3828959992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nutri Food</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">184</SimpleData>
+		<SimpleData name="Field_1">Nutri Food</SimpleData>
+		<SimpleData name="Latitude">28.395334</SimpleData>
+		<SimpleData name="Longitude">77.322103</SimpleData>
+		<SimpleData name="Name2">Nutri Food</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.322103,28.3953339992101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dazzle</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Pubs &amp;amp; Bars</SimpleData>
+		<SimpleData name="FID">185</SimpleData>
+		<SimpleData name="Field_1">Dazzle</SimpleData>
+		<SimpleData name="Latitude">28.386793</SimpleData>
+		<SimpleData name="Longitude">77.317307</SimpleData>
+		<SimpleData name="Name2">Dazzle</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.317307,28.3867929992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Anupam Sweets And Namkeens</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">186</SimpleData>
+		<SimpleData name="Field_1">Anupam Sweets And Namkeens</SimpleData>
+		<SimpleData name="Latitude">28.37606</SimpleData>
+		<SimpleData name="Longitude">77.33073</SimpleData>
+		<SimpleData name="Name2">Anupam Sweets And Namkeens</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.33073,28.3760599992105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rachit Confectionery</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">187</SimpleData>
+		<SimpleData name="Field_1">Rachit Confectionery</SimpleData>
+		<SimpleData name="Latitude">28.379425</SimpleData>
+		<SimpleData name="Longitude">77.296754</SimpleData>
+		<SimpleData name="Name2">Rachit Confectionery</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.296754,28.3794249992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ramesh Sweets</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">188</SimpleData>
+		<SimpleData name="Field_1">Ramesh Sweets</SimpleData>
+		<SimpleData name="Latitude">28.381367</SimpleData>
+		<SimpleData name="Longitude">77.290415</SimpleData>
+		<SimpleData name="Name2">Ramesh Sweets</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.290415,28.3813669992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harsh Confectioner</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">189</SimpleData>
+		<SimpleData name="Field_1">Harsh Confectioner</SimpleData>
+		<SimpleData name="Latitude">28.386076</SimpleData>
+		<SimpleData name="Longitude">77.305202</SimpleData>
+		<SimpleData name="Name2">Harsh Confectioner</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.305202,28.3860759992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Narula Confectioners</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">190</SimpleData>
+		<SimpleData name="Field_1">Narula Confectioners</SimpleData>
+		<SimpleData name="Latitude">28.383825</SimpleData>
+		<SimpleData name="Longitude">77.298193</SimpleData>
+		<SimpleData name="Name2">Narula Confectioners</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.298193,28.3838249992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Friends Confectionary</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">191</SimpleData>
+		<SimpleData name="Field_1">Friends Confectionary</SimpleData>
+		<SimpleData name="Latitude">28.363472</SimpleData>
+		<SimpleData name="Longitude">77.325923</SimpleData>
+		<SimpleData name="Name2">Friends Confectionary</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.325923,28.3634719992107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Satvik Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">192</SimpleData>
+		<SimpleData name="Field_1">Satvik Cafe</SimpleData>
+		<SimpleData name="Latitude">28.384146</SimpleData>
+		<SimpleData name="Longitude">77.324373</SimpleData>
+		<SimpleData name="Name2">Satvik Cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.324373,28.3841459992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sakura</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Oriental</SimpleData>
+		<SimpleData name="FID">193</SimpleData>
+		<SimpleData name="Field_1">Sakura</SimpleData>
+		<SimpleData name="Latitude">28.389921</SimpleData>
+		<SimpleData name="Longitude">77.306216</SimpleData>
+		<SimpleData name="Name2">Sakura</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.306216,28.3899209992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chutney</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">194</SimpleData>
+		<SimpleData name="Field_1">Chutney</SimpleData>
+		<SimpleData name="Latitude">28.389921</SimpleData>
+		<SimpleData name="Longitude">77.306216</SimpleData>
+		<SimpleData name="Name2">Chutney</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.306216,28.3899209992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Raw And Roast</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">195</SimpleData>
+		<SimpleData name="Field_1">Raw And Roast</SimpleData>
+		<SimpleData name="Latitude">28.376589</SimpleData>
+		<SimpleData name="Longitude">77.330963</SimpleData>
+		<SimpleData name="Name2">Raw And Roast</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.330963,28.3765889992105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Little Hungry</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">196</SimpleData>
+		<SimpleData name="Field_1">Little Hungry</SimpleData>
+		<SimpleData name="Latitude">28.383492</SimpleData>
+		<SimpleData name="Longitude">77.313916</SimpleData>
+		<SimpleData name="Name2">Little Hungry</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.313916,28.3834919992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Treat Cafe</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">197</SimpleData>
+		<SimpleData name="Field_1">Treat Cafe</SimpleData>
+		<SimpleData name="Latitude">28.383492</SimpleData>
+		<SimpleData name="Longitude">77.313916</SimpleData>
+		<SimpleData name="Name2">Treat Cafe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.313916,28.3834919992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shri Krishna Dairy</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">198</SimpleData>
+		<SimpleData name="Field_1">Shri Krishna Dairy</SimpleData>
+		<SimpleData name="Latitude">28.363233</SimpleData>
+		<SimpleData name="Longitude">77.336324</SimpleData>
+		<SimpleData name="Name2">Shri Krishna Dairy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.336324,28.3632329992107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Punjabi Tadka</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">199</SimpleData>
+		<SimpleData name="Field_1">Punjabi Tadka</SimpleData>
+		<SimpleData name="Latitude">28.386793</SimpleData>
+		<SimpleData name="Longitude">77.317307</SimpleData>
+		<SimpleData name="Name2">Punjabi Tadka</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.317307,28.3867929992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hot And Juicy</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Fast Food</SimpleData>
+		<SimpleData name="FID">200</SimpleData>
+		<SimpleData name="Field_1">Hot And Juicy</SimpleData>
+		<SimpleData name="Latitude">28.386793</SimpleData>
+		<SimpleData name="Longitude">77.317307</SimpleData>
+		<SimpleData name="Name2">Hot And Juicy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.317307,28.3867929992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Big Boss</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">201</SimpleData>
+		<SimpleData name="Field_1">Big Boss</SimpleData>
+		<SimpleData name="Latitude">28.37096</SimpleData>
+		<SimpleData name="Longitude">77.329723</SimpleData>
+		<SimpleData name="Name2">Big Boss</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.329723,28.3709599992106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Big Boss</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">202</SimpleData>
+		<SimpleData name="Field_1">Big Boss</SimpleData>
+		<SimpleData name="Latitude">28.376589</SimpleData>
+		<SimpleData name="Longitude">77.330963</SimpleData>
+		<SimpleData name="Name2">Big Boss</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.330963,28.3765889992105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kaushik Pastry Shop</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">203</SimpleData>
+		<SimpleData name="Field_1">Kaushik Pastry Shop</SimpleData>
+		<SimpleData name="Latitude">28.376716</SimpleData>
+		<SimpleData name="Longitude">77.332898</SimpleData>
+		<SimpleData name="Name2">Kaushik Pastry Shop</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.332898,28.3767159992105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sharma Confectionery</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">204</SimpleData>
+		<SimpleData name="Field_1">Sharma Confectionery</SimpleData>
+		<SimpleData name="Latitude">28.376716</SimpleData>
+		<SimpleData name="Longitude">77.332898</SimpleData>
+		<SimpleData name="Name2">Sharma Confectionery</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.332898,28.3767159992105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rolly Polly</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">205</SimpleData>
+		<SimpleData name="Field_1">Rolly Polly</SimpleData>
+		<SimpleData name="Latitude">28.376589</SimpleData>
+		<SimpleData name="Longitude">77.330963</SimpleData>
+		<SimpleData name="Name2">Rolly Polly</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.330963,28.3765889992105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dawat E Chicken</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">206</SimpleData>
+		<SimpleData name="Field_1">Dawat E Chicken</SimpleData>
+		<SimpleData name="Latitude">28.370288</SimpleData>
+		<SimpleData name="Longitude">77.32978</SimpleData>
+		<SimpleData name="Name2">Dawat E Chicken</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.32978,28.3702879992106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Handi</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">207</SimpleData>
+		<SimpleData name="Field_1">Handi</SimpleData>
+		<SimpleData name="Latitude">28.386804</SimpleData>
+		<SimpleData name="Longitude">77.317305</SimpleData>
+		<SimpleData name="Name2">Handi</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.317305,28.3868039992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Republic of Chicken</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">208</SimpleData>
+		<SimpleData name="Field_1">Republic of Chicken</SimpleData>
+		<SimpleData name="Latitude">28.376049</SimpleData>
+		<SimpleData name="Longitude">77.330552</SimpleData>
+		<SimpleData name="Name2">Republic of Chicken</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.330552,28.3760489992105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Batra Restaurant And Caterers</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">209</SimpleData>
+		<SimpleData name="Field_1">Batra Restaurant And Caterers</SimpleData>
+		<SimpleData name="Latitude">28.391772</SimpleData>
+		<SimpleData name="Longitude">77.305571</SimpleData>
+		<SimpleData name="Name2">Batra Restaurant And Caterers</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.305571,28.3917719992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bikaner Misthan Bhandar</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">210</SimpleData>
+		<SimpleData name="Field_1">Bikaner Misthan Bhandar</SimpleData>
+		<SimpleData name="Latitude">28.387378</SimpleData>
+		<SimpleData name="Longitude">77.306672</SimpleData>
+		<SimpleData name="Name2">Bikaner Misthan Bhandar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.306672,28.3873779992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Saleems</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">211</SimpleData>
+		<SimpleData name="Field_1">Saleems</SimpleData>
+		<SimpleData name="Latitude">28.364384</SimpleData>
+		<SimpleData name="Longitude">77.291412</SimpleData>
+		<SimpleData name="Name2">Saleems</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.291412,28.3643839992107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>JP Store And Confectioners</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">212</SimpleData>
+		<SimpleData name="Field_1">JP Store And Confectioners</SimpleData>
+		<SimpleData name="Latitude">28.381023</SimpleData>
+		<SimpleData name="Longitude">77.299747</SimpleData>
+		<SimpleData name="Name2">JP Store And Confectioners</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.299747,28.3810229992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chicknette The One Stop Meat Junction</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">213</SimpleData>
+		<SimpleData name="Field_1">Chicknette The One Stop Meat Junction</SimpleData>
+		<SimpleData name="Latitude">28.394672</SimpleData>
+		<SimpleData name="Longitude">77.324505</SimpleData>
+		<SimpleData name="Name2">Chicknette The One Stop Meat Junction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.324505,28.3946719992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Manshi Pizza</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">214</SimpleData>
+		<SimpleData name="Field_1">Manshi Pizza</SimpleData>
+		<SimpleData name="Latitude">28.381074</SimpleData>
+		<SimpleData name="Longitude">77.301649</SimpleData>
+		<SimpleData name="Name2">Manshi Pizza</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.301649,28.3810739992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Deepak Dairy And Sweets</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">215</SimpleData>
+		<SimpleData name="Field_1">Deepak Dairy And Sweets</SimpleData>
+		<SimpleData name="Latitude">28.369154</SimpleData>
+		<SimpleData name="Longitude">77.327004</SimpleData>
+		<SimpleData name="Name2">Deepak Dairy And Sweets</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.327004,28.3691539992106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sanjay Confectionery</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">216</SimpleData>
+		<SimpleData name="Field_1">Sanjay Confectionery</SimpleData>
+		<SimpleData name="Latitude">28.369181</SimpleData>
+		<SimpleData name="Longitude">77.327357</SimpleData>
+		<SimpleData name="Name2">Sanjay Confectionery</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.327357,28.3691809992106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mr Bean</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">217</SimpleData>
+		<SimpleData name="Field_1">Mr Bean</SimpleData>
+		<SimpleData name="Latitude">28.395452</SimpleData>
+		<SimpleData name="Longitude">77.323836</SimpleData>
+		<SimpleData name="Name2">Mr Bean</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.323836,28.3954519992101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Atmaram Sweets</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Bakery &amp;amp; Desserts</SimpleData>
+		<SimpleData name="FID">218</SimpleData>
+		<SimpleData name="Field_1">Atmaram Sweets</SimpleData>
+		<SimpleData name="Latitude">28.381773</SimpleData>
+		<SimpleData name="Longitude">77.300047</SimpleData>
+		<SimpleData name="Name2">Atmaram Sweets</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.300047,28.3817729992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sai Ram Communication And Confectioners</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">219</SimpleData>
+		<SimpleData name="Field_1">Sai Ram Communication And Confectioners</SimpleData>
+		<SimpleData name="Latitude">28.380502</SimpleData>
+		<SimpleData name="Longitude">77.299697</SimpleData>
+		<SimpleData name="Name2">Sai Ram Communication And Confectioners</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.299697,28.3805019992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Malik Confectioners</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">220</SimpleData>
+		<SimpleData name="Field_1">Malik Confectioners</SimpleData>
+		<SimpleData name="Latitude">28.380807</SimpleData>
+		<SimpleData name="Longitude">77.297449</SimpleData>
+		<SimpleData name="Name2">Malik Confectioners</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.297449,28.3808069992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Punjabi Nature</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">221</SimpleData>
+		<SimpleData name="Field_1">Punjabi Nature</SimpleData>
+		<SimpleData name="Latitude">28.371384</SimpleData>
+		<SimpleData name="Longitude">77.32344</SimpleData>
+		<SimpleData name="Name2">Punjabi Nature</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.32344,28.3713839992106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kerala Dosa House</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">222</SimpleData>
+		<SimpleData name="Field_1">Kerala Dosa House</SimpleData>
+		<SimpleData name="Latitude">28.36912</SimpleData>
+		<SimpleData name="Longitude">77.326226</SimpleData>
+		<SimpleData name="Name2">Kerala Dosa House</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.326226,28.3691199992106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Blue Onion</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">223</SimpleData>
+		<SimpleData name="Field_1">Blue Onion</SimpleData>
+		<SimpleData name="Latitude">28.391893</SimpleData>
+		<SimpleData name="Longitude">77.304728</SimpleData>
+		<SimpleData name="Name2">Blue Onion</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.304728,28.3918929992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tandoori Hut</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">224</SimpleData>
+		<SimpleData name="Field_1">Tandoori Hut</SimpleData>
+		<SimpleData name="Latitude">28.368323</SimpleData>
+		<SimpleData name="Longitude">77.314725</SimpleData>
+		<SimpleData name="Name2">Tandoori Hut</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.314725,28.3683229992106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kathi Junction</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">225</SimpleData>
+		<SimpleData name="Field_1">Kathi Junction</SimpleData>
+		<SimpleData name="Latitude">28.368455</SimpleData>
+		<SimpleData name="Longitude">77.314714</SimpleData>
+		<SimpleData name="Name2">Kathi Junction</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.314714,28.3684549992106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ever Green</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">226</SimpleData>
+		<SimpleData name="Field_1">Ever Green</SimpleData>
+		<SimpleData name="Latitude">28.368679</SimpleData>
+		<SimpleData name="Longitude">77.314696</SimpleData>
+		<SimpleData name="Name2">Ever Green</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.314696,28.3686789992106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Asian Wok Hotel Orchid</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">227</SimpleData>
+		<SimpleData name="Field_1">Asian Wok Hotel Orchid</SimpleData>
+		<SimpleData name="Latitude">28.390527</SimpleData>
+		<SimpleData name="Longitude">77.306101</SimpleData>
+		<SimpleData name="Name2">Asian Wok Hotel Orchid</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.306101,28.3905269992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dharma Family Dhaba</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">228</SimpleData>
+		<SimpleData name="Field_1">Dharma Family Dhaba</SimpleData>
+		<SimpleData name="Latitude">28.38177</SimpleData>
+		<SimpleData name="Longitude">77.313542</SimpleData>
+		<SimpleData name="Name2">Dharma Family Dhaba</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.313542,28.3817699992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Punjab Shahi Kabab</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Indian/Multicuisine</SimpleData>
+		<SimpleData name="FID">229</SimpleData>
+		<SimpleData name="Field_1">Punjab Shahi Kabab</SimpleData>
+		<SimpleData name="Latitude">28.392302</SimpleData>
+		<SimpleData name="Longitude">77.306724</SimpleData>
+		<SimpleData name="Name2">Punjab Shahi Kabab</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.306724,28.3923019992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Punjab Shahi Kebab</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">230</SimpleData>
+		<SimpleData name="Field_1">Punjab Shahi Kebab</SimpleData>
+		<SimpleData name="Latitude">28.392274</SimpleData>
+		<SimpleData name="Longitude">77.306132</SimpleData>
+		<SimpleData name="Name2">Punjab Shahi Kebab</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.306132,28.3922739992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rahil Fast Food</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">231</SimpleData>
+		<SimpleData name="Field_1">Rahil Fast Food</SimpleData>
+		<SimpleData name="Latitude">28.389893</SimpleData>
+		<SimpleData name="Longitude">77.290856</SimpleData>
+		<SimpleData name="Name2">Rahil Fast Food</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.290856,28.3898929992102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Satya Restaurant</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">232</SimpleData>
+		<SimpleData name="Field_1">Satya Restaurant</SimpleData>
+		<SimpleData name="Latitude">28.368712</SimpleData>
+		<SimpleData name="Longitude">77.314693</SimpleData>
+		<SimpleData name="Name2">Satya Restaurant</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.314693,28.3687119992106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Punjab Da Sonu Dhaba</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">233</SimpleData>
+		<SimpleData name="Field_1">Punjab Da Sonu Dhaba</SimpleData>
+		<SimpleData name="Latitude">28.381619</SimpleData>
+		<SimpleData name="Longitude">77.313555</SimpleData>
+		<SimpleData name="Name2">Punjab Da Sonu Dhaba</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.313555,28.3816189992104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>KFC</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Fast Food</SimpleData>
+		<SimpleData name="FID">234</SimpleData>
+		<SimpleData name="Field_1">KFC</SimpleData>
+		<SimpleData name="Latitude">28.386945</SimpleData>
+		<SimpleData name="Longitude">77.313733</SimpleData>
+		<SimpleData name="Name2">KFC</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.313733,28.3869449992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Subway</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Fast Food</SimpleData>
+		<SimpleData name="FID">235</SimpleData>
+		<SimpleData name="Field_1">Subway</SimpleData>
+		<SimpleData name="Latitude">28.394907</SimpleData>
+		<SimpleData name="Longitude">77.32249</SimpleData>
+		<SimpleData name="Name2">Subway</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.32249,28.3949069992101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shri Bikaner Mishthan Bhandar</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">236</SimpleData>
+		<SimpleData name="Field_1">Shri Bikaner Mishthan Bhandar</SimpleData>
+		<SimpleData name="Latitude">28.368889</SimpleData>
+		<SimpleData name="Longitude">77.326666</SimpleData>
+		<SimpleData name="Name2">Shri Bikaner Mishthan Bhandar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.326666,28.3688889992106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Health Juice Corner</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Others</SimpleData>
+		<SimpleData name="FID">237</SimpleData>
+		<SimpleData name="Field_1">Health Juice Corner</SimpleData>
+		<SimpleData name="Latitude">28.386135</SimpleData>
+		<SimpleData name="Longitude">77.305341</SimpleData>
+		<SimpleData name="Name2">Health Juice Corner</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.305341,28.3861349992103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Subway</name>
+	<ExtendedData><SchemaData schemaUrl="#resto_poi">
+		<SimpleData name="Categories">Restaurant - Fast Food</SimpleData>
+		<SimpleData name="FID">238</SimpleData>
+		<SimpleData name="Field_1">Subway</SimpleData>
+		<SimpleData name="Latitude">28.386974</SimpleData>
+		<SimpleData name="Longitude">77.313728</SimpleData>
+		<SimpleData name="Name2">Subway</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>77.313728,28.3869739992103</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
